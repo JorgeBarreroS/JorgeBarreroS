@@ -19,7 +19,8 @@ Soy estudiante de **Ingeniería de Software** y Tecnólogo en **Análisis y Desa
 
 - 📫 Contáctame en:
   <a href="mailto:jorgebarrero44@gmail.com">jorgebarrero44@gmail.com</a>
-- 🔗 LinkedIn: <a href="www.linkedin.com/in/jorge-luis-barrero-soto-276466397">Jorge Barrero</a>
+- 🔗 LinkedIn: <a href="https://www.linkedin.com/in/jorge-luis-barrero-soto-276466397/">Jorge Barrero</a>
+
   
 ## 🚀 My Skills Include
 
